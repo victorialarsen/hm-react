@@ -4,14 +4,19 @@ import Card from './Card';
 const App = () => {
   const data = [
     {
-      img: 'image1.jpg',
-      title: 'Delicious vegetables',
-      description: 'Just monochrome veggies.',
+      img: 'https://image.petmd.com/files/styles/863x625/public/2023-01/toy-poodle.jpg',
+      title: 'Adorable Puppy',
+      description: 'This is an adorable puppy laying on the floor.',
     },
     {
-      img: 'image2.jpg',
-      title: 'Delicious meal',
-      description: 'Suuuper delicious meal.',
+      img: 'https://apupabove.com/cdn/shop/articles/Toy_Poodle.webp',
+      title: 'Happy Dog',
+      description: 'A happy dog enjoying a sunny day at the park.',
+    },
+    {
+      img: 'https://media-be.chewy.com/wp-content/uploads/toy-poodle-large-shutterstock-525256504-copy-538x350.jpg',
+      title: 'Cute puppy',
+      description: 'This little puppy is resting after a fun play session.q',
     },
   ];
 
