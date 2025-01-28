@@ -4,14 +4,14 @@ import Card from './Card';
 const App = () => {
   const data = [
     {
-      img: 'image.jpg',
-      title: 'Cute Dog 1',
-      description: 'A cute dog enjoying the sunshine.',
+      img: 'image1.jpg',
+      title: 'Delicious vegetables',
+      description: 'Just monochrome veggies.',
     },
     {
-      img: 'image1.jpg',
-      title: 'Cute Dog 2',
-      description: 'Another adorable dog playing in the park.',
+      img: 'image2.jpg',
+      title: 'Delicious meal',
+      description: 'Suuuper delicious meal.',
     },
   ];
 
